@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / editor
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build / logs
+build/
+dist/
+*.egg-info/
+*.log
+
+# Local data artifacts (keep folders if needed)
+data/*
+models/*
+!data/.gitkeep
+!models/.gitkeep
+
+# Notebook HTML-export side artifacts
+fods_project_files/

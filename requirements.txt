@@ -1,5 +1,13 @@
-datasets
-sentence-transformers
+numpy
+pandas
+matplotlib
+scikit-learn
 plotly
+jupyter
+
+datasets
+huggingface-hub
+sentence-transformers
+
 umap-learn
 hdbscan
